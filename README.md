@@ -1,0 +1,1 @@
+# Solidus Page Template Design
