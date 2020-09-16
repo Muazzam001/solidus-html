@@ -453,6 +453,7 @@ body {
     font-weight: bolder;
     font-size: 13px;
     text-align: left;
+    margin: 0;
 }
 
 .banner-footer-heading p > a {
@@ -470,7 +471,7 @@ body {
 }
 
 .side-arrow {
-    width: 70px;
+    width: 60px;
     height: 71px;
     margin: 0;
     padding: 0;
@@ -736,6 +737,7 @@ body {
 
 .content-desc-heading {
     background-color: rgba(0, 0, 0, .5);
+    margin-left: -4px;
 }
 
 .content-desc-icon > p, .content-desc-heading > p {
@@ -826,7 +828,7 @@ body {
 }
 
 .content-footer-desc {
-    width: 280px;
+    width: 275px;
     height: 50px;
     vertical-align: top;
     display: inline-block;
@@ -922,7 +924,7 @@ body {
 }
 
 .main-reviews {
-	background-color: #323136;
+    background-color: #323136;
     border: 2px solid #2E2D32;
     margin: 20px 14px 0;
 }
