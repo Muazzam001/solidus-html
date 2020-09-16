@@ -438,7 +438,7 @@ body {
 }
 
 .banner-footer-heading {
-    width: 230px;
+    width: 229px;
     margin: 0;
     padding: 0;
     display: inline-block;
@@ -494,7 +494,7 @@ body {
 .side-arrow > p {
     width: 20px;
     height: 20px;
-    margin: 20px 25px;
+    margin: 20px;
     padding: 0;
     font-size: 15px;
     color: #fff;
